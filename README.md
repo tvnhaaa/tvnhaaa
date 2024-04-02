@@ -1,5 +1,5 @@
 <h1>Tuan Vinh</h1>
-<p>I am from <a href="https://www.youtube.com/watch?v=Qfy2golKL7k">📍 Saigon, Vietnam</a></p>
+<p>I am from <a href="https://www.youtube.com/watch?v=Qfy2golKL7k">📍 Saigon, Vietnam.</a></p>
 
 
 
