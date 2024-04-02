@@ -1,4 +1,8 @@
-### Hi there 👋
+Hi, I'm Tuan Vinh
+I am from 📍 Saigon, Vietnam 
+
+
+![Ho_Chi_Minh_City_Skyline_(night)](https://github.com/tvnhaaa/tvnhaaa/assets/101287371/4dae09b9-f605-4f0d-b0e3-015fee2fd239)
 
 <!--
 **tvnhaaa/tvnhaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
